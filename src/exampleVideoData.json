@@ -1,0 +1,173 @@
+
+ [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wXHBpIGCMW-fk09oO2U3XhV9Keg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k5E2AVpwsko"
+      },
+      "snippet": {
+        "publishedAt": "2017-09-05T16:48:15Z",
+        "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "title": "Angular Tutorial for Beginners: Learn Angular &amp; TypeScript",
+        "description": "Angular tutorial for beginners: Learn Angular & TypeScript from scratch. Enjoyed this video? Please vote for me as the Top Programming Guru: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k5E2AVpwsko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k5E2AVpwsko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k5E2AVpwsko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Programming with Mosh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-05T16:48:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zXkgOXMHAklRHTXxZKxgZnhmrC4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Fdf5aTYRW0E"
+      },
+      "snippet": {
+        "publishedAt": "2019-01-23T17:46:58Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "Angular Crash Course",
+        "description": "In this video we will talk about what Angular is and then jump in and build a small app With Angular 7, looking at most of the fundamental concepts like ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fdf5aTYRW0E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fdf5aTYRW0E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fdf5aTYRW0E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-01-23T17:46:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1_eLLqR8s8Jzp-F_aym_WthUVrI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VAkio68d51A"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-25T00:09:23Z",
+        "channelId": "UCZ9qFEC82qM6Pk-54Q4TVWA",
+        "title": "What is Angular? (Explained for Beginners)",
+        "description": "When you're just starting out you are probably wondering \"What is Angular exactly? When you ask that question it leads to a lot of concepts that are over your ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VAkio68d51A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VAkio68d51A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VAkio68d51A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Andy Sterkowitz",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-25T00:09:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RMxv9oyfMm6eaIZcoIMsDWDnW5g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iZ1mlcCkY8A"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-30T16:30:02Z",
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "title": "Angular Full Course - Learn Angular In 3 Hours | Angular Tutorial For Beginners | Simplilearn",
+        "description": "This video on Angular Full Course will introduce to you the fundamental concepts of this framework. Angular is a full fledged JavaScript front end framework ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iZ1mlcCkY8A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iZ1mlcCkY8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iZ1mlcCkY8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Simplilearn",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-30T16:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kwBY6Pm6bbL8yYPffQosZyvmeF8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G0bBLvWXBvc"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-16T16:53:41Z",
+        "channelId": "UCsBjURrPoezykLs9EqgamOA",
+        "title": "Angular for Beginners - Let&#39;s build a Tic-Tac-Toe PWA",
+        "description": "Learn the basics of Angular 8 by building a tic-tac-toe game 🕹️ from scratch...Then deploy it as an installable progressive web app (PWA). Go beyond the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G0bBLvWXBvc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G0bBLvWXBvc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G0bBLvWXBvc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fireship",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-16T16:53:41Z"
+      }
+    }
+  ]
