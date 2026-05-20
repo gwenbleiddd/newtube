@@ -5,15 +5,9 @@
 ![Axios](https://img.shields.io/badge/Axios-HTTP%20Client-5A29E4)
 ![YouTube API](https://img.shields.io/badge/YouTube-Data%20API%20v3-FF0000?logo=youtube&logoColor=white)
 
-## 📌 Overview
+## 📌 Project Overview
 
 NewTube is a React-based web application that allows users to search, browse, and view video content through an external API. The application provides a simplified video platform experience with a modern user interface and responsive design.
-
----
-
-## 🎯 Purpose
-
-The goal of this project is to demonstrate practical experience with React, API integration, and dynamic UI rendering by building a functional video browsing application similar to a simplified video streaming platform.
 
 ---
 
