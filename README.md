@@ -1,5 +1,3 @@
-# 🎬 NewTube
-
 # 🎬 YouTube Search App
 
 ![React](https://img.shields.io/badge/React-18+-61DAFB?logo=react&logoColor=white)
