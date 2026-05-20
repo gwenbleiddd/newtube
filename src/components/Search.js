@@ -3,7 +3,7 @@ import {ImSearch} from 'react-icons/im'
 
 
 const Search = ({onSubmit}) => {
-  const[input,setInput] = useState(' ');
+  const[input,setInput] = useState('');
 
   
 
@@ -12,7 +12,7 @@ const Search = ({onSubmit}) => {
   }
   const sendInput = e =>{
      e.preventDefault();
-     onSubmit(input);
+     onSubmit(input.trim());
     
   }
 
@@ -26,8 +26,19 @@ const Search = ({onSubmit}) => {
       {/* <h1>Search section</h1> */}
        
       <form onSubmit={sendInput}> 
-        <input type='text'name='word' placeholder='Search...' onChange={collectInput}></input>
-        <button><ImSearch size={15}/></button>
+
+        <input 
+        type='text'
+        name='word' 
+        placeholder='Search...'
+        value={input} 
+        onChange={collectInput}>
+        </input>
+
+        <button>
+        <ImSearch size={15}/>
+        </button>
+
       </form>
     </div>
   )
